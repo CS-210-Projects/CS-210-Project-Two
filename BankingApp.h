@@ -1,4 +1,3 @@
-//Roger Fisher 8/2/2024
 #pragma once
 
 #ifndef BANKINGAPP_H
